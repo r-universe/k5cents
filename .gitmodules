@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "fflr"]
+	path = fflr
+	url = https://github.com/k5cents/fflr
+[submodule "gluedown"]
+	path = gluedown
+	url = https://github.com/k5cents/gluedown
+[submodule "k5"]
+	path = k5
+	url = https://github.com/k5cents/k5
+[submodule "mdbr"]
+	path = mdbr
+	url = https://github.com/k5cents/mdbr
+[submodule "metro"]
+	path = metro
+	url = https://github.com/k5cents/metro
+[submodule "srt"]
+	path = srt
+	url = https://github.com/k5cents/srt
+[submodule "usa"]
+	path = usa
+	url = https://github.com/k5cents/usa
