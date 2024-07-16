@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fflr"]
-	path = fflr
-	url = https://github.com/k5cents/fflr
 [submodule "gluedown"]
 	path = gluedown
 	url = https://github.com/k5cents/gluedown
